@@ -59,8 +59,6 @@ Mi avance:
 
 ## Parte 1
 ### Descripción de los conceptos básicos de Azure
-### Computo en la nube
-Se le conoce así a la entrega de servicios vía internet.
 
 ### Alta disponibilidad
 Dependiendo del SLA, las aplicaciones de nube pueden proporcionar servicio continuo sin inactividad aparente incluso cuando las cosas van mal.
