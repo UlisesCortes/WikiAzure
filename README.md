@@ -1,3 +1,12 @@
+<br />
+
+<!-- ![my github stats - light](https://github-readme-stats.vercel.app/api?username=jeelpatel1612) -->
+![my github stats - dark](https://github-readme-stats.vercel.app/api?username=UlisesCortes&show_icons=true&count_private=true&theme=dark)
+
+<!-- TODO : Dev Metrics : https://github.com/anmol098/waka-readme-stats -->
+
+<br />
+
 # Acordeón de estudio AZ-900 Microsoft Fundamentals
 ### Eje de Arquitectura de Soluciones
 
