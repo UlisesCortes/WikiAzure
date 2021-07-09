@@ -1,25 +1,24 @@
 # ¡Hola! Este es mi primer Repositorio de GitHub .
 
 Mi avance:
-<br />
+<div align = "center">
 
-<!-- ![my github stats - light](https://github-readme-stats.vercel.app/api?username=jeelpatel1612) -->
-![my github stats - dark](https://github-readme-stats.vercel.app/api?username=UlisesCortes&show_icons=true&count_private=true&theme=dark)
+![Parth's Github Status](https://github-readme-stats.vercel.app/api?username=UlisesCortes&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
 
-<!-- TODO : Dev Metrics : https://github.com/anmol098/waka-readme-stats -->
+<hr>
 
-<br />
+</div>
 
-# En este apartado se iran agregando los Coneptos principales de Computo en la nube y la certificación AZ-900 Microsoft Fundamentals.
+# 💻 En este apartado se irán agregando los Coneptos principales de Computo en la nube y la certificación AZ-900 Microsoft Fundamentals.
 
-![Computo en la nube](IMAGENES/computo-en-la-nube.gif)
+<img src="IMAGENES/computo-en-la-nube.gif" alt="drawing" width="300"/>
+
+### Los sigientes conceptos se tomaron de los contenidos del curso de certificación AZ-9000 y fueron complementados con algunas aportaciones.
+
 ### Conceptos Clave:
 
-
-
-
-
   - [**Indice**](#)
+  - [Parte 1](#parte-1)
     - [Alta disponibilidad](#alta-disponibilidad)
     - [Escalabilidad vertical](#escalabilidad-vertical)
     - [Escalabilidad horizontal](#escalabilidad-horizontal)
@@ -43,6 +42,7 @@ Mi avance:
     - [Nivel de Servicio (SLA)](#nivel-de-serviciosla)
     - [Azure](#azure)
     - [Cómputo en la nube](#cómputo-en-la-nube)
+  - [**Parte 2**](#parte-2)
   - [**Categorias de Azure**](#categorias-de-azure)
     - [Compute](#compute)
     - [Network](#network)
@@ -52,8 +52,14 @@ Mi avance:
     - [Big Data](#big-data)
     - [Inteligencia Artificial (IA)](#inteligencia-artificial-ia)
     - [DevOps](#devops)
-  - [Diagrama completo](#diagrama-completo)
+  - [Parte 3](#parte-3)
+  - [Parte 4](#parte-4)
+  - [Parte 5](#parte-5)
+  - [Parte 6](#parte-6)
 
+### Parte 1
+### Computo en la nube
+Se le conoce así a la entrega de servicios vía internet.
 
 ### Alta disponibilidad
 Dependiendo del SLA, las aplicaciones de nube pueden proporcionar servicio continuo sin inactividad aparente incluso cuando las cosas van mal.
@@ -61,10 +67,8 @@ Dependiendo del SLA, las aplicaciones de nube pueden proporcionar servicio conti
 ### Escalabilidad vertical
 Incremento de la capacidad de cómputo (CPU) o de la RAM a los recursos ya existentes.
 
-
 ### Escalabilidad horizontal
 Incremento de la capacidad de cómputo agregando más instancias del mismo recurso.
-
 
 ### Elasticidad
 Los recursos se pueden autoescalar dependiendo de la necesidad actual. Siempre tienes los recursos que necesitas.
@@ -94,7 +98,6 @@ Entorno que combina una nube pública y una nube privada, lo que permite compart
 **Infraestructure as a Service (Infraestructura como servicio)**
 Modelo de servicio que es muy cercano a tener data centers fisicos. El proveedor solo se encarga del hardware.
 
-
 ### PaaS
 **Platform as a Service (Plataforma como servicio)**
 Modelo de servicio en un entorno de alujamiento gestionado. El proveedor se encarga de las maquinas virtuales y recursos de red. El inquilino de las aplicaciones.
@@ -102,7 +105,6 @@ Modelo de servicio en un entorno de alujamiento gestionado. El proveedor se enca
 ### SaaS
 **Software as a Service (Software como servicio)**
 El proveedor de nube brinda las aplicaciones y se encarga de ellas. El inquilino solo provee y se encarga de los datos.
-
 
 ### Regiones
 Área geográfica del planeta que tiene por lo menos un centro de datos de Azure.
@@ -112,7 +114,6 @@ Zona que contiene dos o más regiones de Azure.
 
 ### Zonas de Disponibilidad
 Centros de datos separados físicamente dentro de una región de Azure con electricidad, refrigeración y equipo independientes.
-
 
 ### Recursos
 Elemento administrable que está disponible mediante Azure.
@@ -132,9 +133,11 @@ Servicio de nube de Microsoft que entrega servicios informáticos a través de I
 ### Cómputo en la nube
 Es la entrega de servicios de computo a través de Internet.
 
+### Parte 2
+### Descripción de los servicios básicos de Azure
+
 ## Categorias de Azure
 Los servicios de Azure se agrupan en diferentes categorias las cuales son:
-
 
 ### Compute
 Proporciona servicios de cómputo o procesamiento bajo demanda. Por ejemplo:
@@ -176,8 +179,7 @@ Porporciona servicios para el procesamiento y análisis de grandes cantidades de
 - Azure Databricks
 - Azure HDInsight
 
-
-### Inteliencia Artificial (IA)
+### Inteligencia Artificial (IA)
 Proporciona servicios de aprendizaje automático (prefabricados o no). Por ejemplo:
 - Azure Machine Learning Service
 - Azure Machine Learning Studio
@@ -187,3 +189,16 @@ Proporciona servicios de aprendizaje automático (prefabricados o no). Por ejemp
 Ayuda a los equipos de desarrollo de software a automatizar y hacer eficientes sus procesos. Por ejemplo:
 - Azure DevOps
 - Azure DevTest Labs
+
+### Parte 3
+### Descripción de las principales soluciones y herramientas de administración de Azure
+
+
+### Parte 4
+### Descripción de las características de seguridad general y de seguridad de red
+
+### Parte 5
+### Descripción de las características de identidad, gobernanza, privacidad y cumplimiento
+
+### Parte 6
+### Descripción de los acuerdos de nivel de servicio y la administración de costos de Azure
