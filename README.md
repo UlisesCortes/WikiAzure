@@ -57,7 +57,8 @@ Mi avance:
   - [Parte 5](#parte-5)
   - [Parte 6](#parte-6)
 
-### Parte 1
+## Parte 1
+### Descripción de los conceptos básicos de Azure
 ### Computo en la nube
 Se le conoce así a la entrega de servicios vía internet.
 
@@ -133,7 +134,7 @@ Servicio de nube de Microsoft que entrega servicios informáticos a través de I
 ### Cómputo en la nube
 Es la entrega de servicios de computo a través de Internet.
 
-### Parte 2
+## Parte 2
 ### Descripción de los servicios básicos de Azure
 
 ## Categorias de Azure
@@ -190,15 +191,15 @@ Ayuda a los equipos de desarrollo de software a automatizar y hacer eficientes s
 - Azure DevOps
 - Azure DevTest Labs
 
-### Parte 3
+## Parte 3
 ### Descripción de las principales soluciones y herramientas de administración de Azure
 
 
-### Parte 4
+## Parte 4
 ### Descripción de las características de seguridad general y de seguridad de red
 
-### Parte 5
+## Parte 5
 ### Descripción de las características de identidad, gobernanza, privacidad y cumplimiento
 
-### Parte 6
+## Parte 6
 ### Descripción de los acuerdos de nivel de servicio y la administración de costos de Azure
