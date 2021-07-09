@@ -1,3 +1,5 @@
+# ¡Hola! Este es mi primer Repositorio de GitHub .
+
 <br />
 
 <!-- ![my github stats - light](https://github-readme-stats.vercel.app/api?username=jeelpatel1612) -->
@@ -7,7 +9,8 @@
 
 <br />
 
-# Acordeón de estudio AZ-900 Microsoft Fundamentals
+# En este apartado se iran agregando los Coneptos principales de Computo en la nube y la certificación AZ-900 Microsoft Fundamentals.
+
 ### Eje de Arquitectura de Soluciones
 
 ![Logo Arquitectura de soluciones](/res/images/logo_arquitectura.png)
