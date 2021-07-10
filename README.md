@@ -127,6 +127,8 @@ Establecer reglas y directivas sobre los recursos de la organización y garantiz
 Porcentaje de disponibilidad y rendimeinto de los recursos durante un tiempo determinado.
 
 ### Azure
+
+**[Link de Modulo 1](res/P1_Modulo1.md)**
 Servicio de nube de Microsoft que entrega servicios informáticos a través de Internet.
 
 ### Cómputo en la nube
