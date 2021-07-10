@@ -138,11 +138,18 @@ Sin gastos de capital (CapEx). Los usuarios no tienen costos iniciales.
 - Limitaciones de software. Es posible que en las aplicaciones de software haya una serie de limitaciones que pueden afectar al modo en el que los usuarios trabajan. Como está usando el software tal cual, no tiene un control directo de las características. Al evaluar qué plataforma SaaS es más adecuada para una carga de trabajo, debe tener en cuenta cualquier necesidad empresarial y las limitaciones de software.
 
 Comparación de modelos de servicio en la nube
-Modelo | Descripción
---------- | ----------- | -----------
-IaaS | PaaS | SaaS
-El servicio en la nube más flexible. | Céntrese en el desarrollo de aplicaciones. | Modelo de precio de pago por uso.
-Configure y administre el hardware de la aplicación. | El proveedor de nube controla la administración de la plataforma. | Los usuarios pagan por el software que utilizan en un modelo de suscripción.
+
+IaaS 
+El servicio en la nube más flexible. 
+Configure y administre el hardware de la aplicación.
+
+PaaS
+Céntrese en el desarrollo de aplicaciones. 
+El proveedor de nube controla la administración de la plataforma.
+
+SaaS
+Los usuarios pagan por el software que utilizan en un modelo de suscripción.
+Modelo de precio de pago por uso.
 
 
 ## ¿Qué es la informática sin servidor?
