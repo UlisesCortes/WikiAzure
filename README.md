@@ -87,7 +87,8 @@ Gasto inicial de dinero en infraestructura física se deduce a lo largo del tiem
 ### OpEx
 Gasto de dinero en servicios o productos en el momento y se factura por ellos al momento. No hay inversión inicial.
 
-### Nube Pública
+### Nube Pública 
+**[Link de Modulo 2 - ](https://github.com/UlisesCortes/WikiAzure/blob/main/res/P1_Modulo2.md#nube-publica)**
 Los servicios se ofrecen a través de la red Internet pública y están disponibles para cualquiera que quiera comprarlos, es decir, conseguir servicios de nube de terceros como Microsoft Azure.
 
 ### Nube Privada
