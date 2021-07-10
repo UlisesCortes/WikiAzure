@@ -21,6 +21,7 @@ Mi avance:
   - [Parte 1](#parte-1) 
   - [Link de Modulo 1](res/P1_Modulo1.md)
   - [Link de Modulo 2](res/P1_Modulo2.md)
+  - [Link de Modulo 3](res/P1_Modulo3.md)
     - [Alta disponibilidad](#alta-disponibilidad)
     - [Escalabilidad vertical](#escalabilidad-vertical)
     - [Escalabilidad horizontal](#escalabilidad-horizontal)
@@ -63,6 +64,8 @@ Mi avance:
 
 ### Descripción de los conceptos básicos de Azure
 **[Link de Modulo 1](res/P1_Modulo1.md)**
+**[Link de Modulo 2](res/P1_Modulo2.md)**
+**[Link de Modulo 3](res/P1_Modulo3.md)**
 
 ### Alta disponibilidad
 Dependiendo del SLA, las aplicaciones de nube pueden proporcionar servicio continuo sin inactividad aparente incluso cuando las cosas van mal.
