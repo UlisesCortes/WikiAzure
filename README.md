@@ -11,7 +11,7 @@ Mi avance:
 
 # 💻 En este apartado se irán agregando los Coneptos principales de Computo en la nube y la certificación AZ-900 Microsoft Fundamentals.
 
-<img src="IMAGENES/computo-en-la-nube.gif" alt="drawing" width="300"/>
+<img src="res/Imagenes/computo-en-la-nube.gif" alt="drawing" width="300"/>
 
 ### Los sigientes conceptos se tomaron de los contenidos del curso de certificación AZ-9000 y fueron complementados con algunas aportaciones.
 
