@@ -23,7 +23,7 @@ Mi avance:
     - [Link de Modulo 2: Conceptos fundamentales de Azure](res/P1_Modulo2.md)
     - [Link de Modulo 3: Descripción de los componentes principales de la arquitectura de Azure](res/P1_Modulo3.md)
   - [Parte 2: Descripción de los servicios básicos de Azure](#parte-2)
-    - [Link de Modulo 4: Exploración de los servicios de Azure Compute]()
+    - [Link de Modulo 4: Exploración de los servicios de Azure Compute](res/P2_Modulo4.md)
     - [Link de Modulo 5: Exploaración de los servicios de red de Azure]()
     - [Link de Modulo 6: Exploración de los servicios de Azure Storage]()
     - [Link de Modulo 7: Exploración de los servicios de análisis y bases de datos de Azure]()
@@ -40,6 +40,10 @@ Mi avance:
 - **[Link de Modulo 3](res/P1_Modulo3.md)**
 
 ## Parte 2
+- **[Link de Modulo 4](res/P2_Modulo4.md)**
+- **[Link de Modulo 5](res/P2_Modulo.md)**
+- **[Link de Modulo 6](res/P2_Modulo.md)**
+
 
 ### Database (DB)
 Proporciona servicios de bases de datos para una amplia variedad de tipos y volumenes de datos. Por ejemplo:
