@@ -18,22 +18,28 @@ Mi avance:
 ### Conceptos Clave:
 
   - [**Indice**](#)
-  - [Parte 1](#parte-1) 
-    - [Link de Modulo 1](res/P1_Modulo1.md)
-    - [Link de Modulo 2](res/P1_Modulo2.md)
-    - [Link de Modulo 3](res/P1_Modulo3.md)
-  - [Parte 3](#parte-3)
-  - [Parte 4](#parte-4)
-  - [Parte 5](#parte-5)
-  - [Parte 6](#parte-6)
+  - [Parte 1: Descripción de los conceptos básicos de Azure](#parte-1) 
+    - [Link de Modulo 1 : Introducción a los aspectos básicos de Azure](res/P1_Modulo1.md)
+    - [Link de Modulo 2: Conceptos fundamentales de Azure](res/P1_Modulo2.md)
+    - [Link de Modulo 3: Descripción de los componentes principales de la arquitectura de Azure](res/P1_Modulo3.md)
+  - [Parte 2: Descripción de los servicios básicos de Azure](#parte-2)
+    - [Link de Modulo 4: Exploración de los servicios de Azure Compute]()
+    - [Link de Modulo 5: Exploaración de los servicios de red de Azure]()
+    - [Link de Modulo 6: Exploración de los servicios de Azure Storage]()
+    - [Link de Modulo 7: Exploración de los servicios de análisis y bases de datos de Azure]()
+  - [Parte 3: Descripción de las principales soluciones y herramientas de administración de Azure](#parte-3)
+  - [Parte 4: Descripción de las características de seguridad general y de seguridad de red](#parte-4)
+  - [Parte 5: Descripción de las características de identidad, gobernanza, privacidad y cumplimiento](#parte-5)
+- [Parte 5: Descripción de los acuerdos de nivel de servicio y la administración de costos de Azure](#parte-5)
+
 
 ## Parte 1
-
 ### Descripción de los conceptos básicos de Azure
-**[Link de Modulo 1](res/P1_Modulo1.md)**
-**[Link de Modulo 2](res/P1_Modulo2.md)**
-**[Link de Modulo 3](res/P1_Modulo3.md)**
+- **[Link de Modulo 1](res/P1_Modulo1.md)**
+- **[Link de Modulo 2](res/P1_Modulo2.md)**
+- **[Link de Modulo 3](res/P1_Modulo3.md)**
 
+## Parte 2
 
 ### Database (DB)
 Proporciona servicios de bases de datos para una amplia variedad de tipos y volumenes de datos. Por ejemplo:
