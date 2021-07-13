@@ -35,14 +35,37 @@ Mi avance:
 
 ## Parte 1
 ### Descripción de los conceptos básicos de Azure
-- **[Link de Modulo 1](res/P1_Modulo1.md)**
-- **[Link de Modulo 2](res/P1_Modulo2.md)**
-- **[Link de Modulo 3](res/P1_Modulo3.md)**
+- **[Link de Modulo 1: Introducción a los aspectos básicos de Azure](res/P1_Modulo1.md)**
+- **[Link de Modulo 2: Conceptos fundamentales de Azure](res/P1_Modulo2.md)**
+- **[Link de Modulo 3: Descripción de los componentes principales de la arquitectura de Azure](res/P1_Modulo3.md)**
 
 ## Parte 2
-- **[Link de Modulo 4](res/P2_Modulo4.md)**
-- **[Link de Modulo 5](res/P2_Modulo.md)**
-- **[Link de Modulo 6](res/P2_Modulo.md)**
+### Descripción de los servicios básicos de Azure
+- **[Link de Modulo 4: Exploración de los servicios de Azure Compute](res/P2_Modulo4.md)**
+- **[Link de Modulo 5: Exploaración de los servicios de red de Azure](res/P2_Modulo5.md)**
+- **[Link de Modulo 6: Exploración de los servicios de Azure Storage](res/P2_Modulo6.md)**
+- **[Link de Modulo 7: Exploración de los servicios de análisis y bases de datos de Azure](res/P2_Modulo7.md)**
+
+## Parte 3
+- **[Link de Modulo 8:](res/P2_Modulo.md)**
+- **[Link de Modulo 9:](res/P2_Modulo.md)**
+- **[Link de Modulo 10:](res/P2_Modulo.md)**
+- **[Link de Modulo 11:](res/P2_Modulo.md)**
+
+## Parte 4
+- **[Link de Modulo 12:](res/P2_Modulo.md)**
+- **[Link de Modulo 13:](res/P2_Modulo.md)**
+- **[Link de Modulo 14:](res/P2_Modulo.md)**
+- **[Link de Modulo 15:](res/P2_Modulo.md)**
+
+## Parte 5
+- **[Link de Modulo 16:](res/P2_Modulo.md)**
+- **[Link de Modulo 17:](res/P2_Modulo.md)**
+- **[Link de Modulo 18:](res/P2_Modulo.md)**
+- **[Link de Modulo 19:](res/P2_Modulo.md)**
+
+## Parte 6
+- **[Link de Modulo 20:](res/P2_Modulo.md)**
 
 
 ### Database (DB)
