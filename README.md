@@ -24,11 +24,18 @@ Mi avance:
     - [Link de Modulo 3: Descripción de los componentes principales de la arquitectura de Azure](res/P1_Modulo3.md)
   - [Parte 2: Descripción de los servicios básicos de Azure](#parte-2)
     - [Link de Modulo 4: Exploración de los servicios de Azure Compute](res/P2_Modulo4.md)
-    - [Link de Modulo 5: Exploaración de los servicios de red de Azure]()
-    - [Link de Modulo 6: Exploración de los servicios de Azure Storage]()
-    - [Link de Modulo 7: Exploración de los servicios de análisis y bases de datos de Azure]()
+    - [Link de Modulo 5: Exploaración de los servicios de red de Azure](res/P2_Modulo5.md)
+    - [Link de Modulo 6: Exploración de los servicios de Azure Storage](res/P2_Modulo6.md)
+    - [Link de Modulo 7: Exploración de los servicios de análisis y bases de datos de Azure](res/P2_Modulo7.md)
   - [Parte 3: Descripción de las principales soluciones y herramientas de administración de Azure](#parte-3)
+    - [Link de Modulo 8: Elegir el mejor servicio de Azure IoT para su aplicación]()
+    - [Link de Modulo 9: Elegir el mejor servicio de IA para sus necesidades]()
+    - [Link de Modulo 10: Elecciópn de la mejor tecnología sin servidor de Azure para el mejor escenario empresarial]()
+    - [Link de Modulo 11: Elección de las mejores herramientas para ayudar a que las organizaciones creen mejores soluciones]()
+    - [Link de Modulo 12:  Elección de las mejores herramientas para administrar y configurar el entorno de Azure]()
+    - [Link de Modulo 13: Elección del mejor servicio de supervición para visibilidad, información y mitigación de interrupciones.]()
   - [Parte 4: Descripción de las características de seguridad general y de seguridad de red](#parte-4)
+    - [Link de Modulo 13:]()
   - [Parte 5: Descripción de las características de identidad, gobernanza, privacidad y cumplimiento](#parte-5)
 - [Parte 5: Descripción de los acuerdos de nivel de servicio y la administración de costos de Azure](#parte-5)
 
@@ -47,6 +54,7 @@ Mi avance:
 - **[Link de Modulo 7: Exploración de los servicios de análisis y bases de datos de Azure](res/P2_Modulo7.md)**
 
 ## Parte 3
+### Descripción de las principales soluciones y herramientas de administración de Azure
 - **[Link de Modulo 8:](res/P2_Modulo.md)**
 - **[Link de Modulo 9:](res/P2_Modulo.md)**
 - **[Link de Modulo 10:](res/P2_Modulo.md)**
