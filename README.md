@@ -33,11 +33,11 @@ Mi avance:
     - [Link de Modulo 10: Elecciópn de la mejor tecnología sin servidor de Azure para el mejor escenario empresarial]()
     - [Link de Modulo 11: Elección de las mejores herramientas para ayudar a que las organizaciones creen mejores soluciones]()
     - [Link de Modulo 12:  Elección de las mejores herramientas para administrar y configurar el entorno de Azure]()
-    - [Link de Modulo 13: Elección del mejor servicio de supervición para visibilidad, información y mitigación de interrupciones.]()
+    - [Link de Modulo 13: Elección del mejor servicio de supervición para visibilidad, información y mitigación de interrupciones.](res/P3_Modulo13.md)
   - [Parte 4: Descripción de las características de seguridad general y de seguridad de red](#parte-4)
-    - [Link de Modulo 13:]()
+    - [Link de Modulo 14:Falta modificar esta parte](res/P4_Modulo14.md)
   - [Parte 5: Descripción de las características de identidad, gobernanza, privacidad y cumplimiento](#parte-5)
-- [Parte 5: Descripción de los acuerdos de nivel de servicio y la administración de costos de Azure](#parte-5)
+    - [Parte 5: Descripción de los acuerdos de nivel de servicio y la administración de costos de Azure](#parte-5)
 
 
 ## Parte 1
@@ -60,18 +60,18 @@ Mi avance:
 - **[Link de Modulo 10:](res/P2_Modulo.md)**
 - **[Link de Modulo 11:](res/P2_Modulo.md)**
 - **[Link de Modulo 12:](res/P2_Modulo.md)**
-- **[Link de Modulo 13:](res/P2_Modulo.md)**
+- **[Link de Modulo 13:](res/P3_Modulo13.md)**
 
 ## Parte 4
 
-- **[Link de Modulo 14:](res/P2_Modulo.md)**
-- **[Link de Modulo 15:](res/P2_Modulo.md)**
+- **[Link de Modulo 14:](res/P4_Modulo14.md)**
+- **[Link de Modulo 15:](res/P4_Modulo.md)**
 
 ## Parte 5
-- **[Link de Modulo 16:](res/P2_Modulo.md)**
-- **[Link de Modulo 17:](res/P2_Modulo.md)**
-- **[Link de Modulo 18:](res/P2_Modulo.md)**
-- **[Link de Modulo 19:](res/P2_Modulo.md)**
+- **[Link de Modulo 16:](res/P5_Modulo.md)**
+- **[Link de Modulo 17:](res/P5_Modulo.md)**
+- **[Link de Modulo 18:](res/P5_Modulo.md)**
+- **[Link de Modulo 19:](res/P5_Modulo.md)**
 
 ## Parte 6
 - **[Link de Modulo 20:](res/P2_Modulo.md)**
