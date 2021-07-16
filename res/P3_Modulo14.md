@@ -7,7 +7,7 @@ Los sistemas de software modernos que se ejecutan en la nube son complejos, por 
 Opciones de productos
 A nivel general, hay tres ofertas principales de supervisión de Azure, cada una de las cuales tiene como objetivo una audiencia y un caso de uso específicos, y proporcionan un conjunto diverso de herramientas, servicios, API de programación, etc.
 
-### Azure Advisor
+## Azure Advisor
 ### Quiere recibir una alerta cuando haya disponibles nuevas recomendaciones para mejorar su entorno de nube. ¿Qué servicio puede hacer esto?
 Azure Advisor evalúa los recursos de Azure y hace recomendaciones que contribuyen a mejorar la confiabilidad, la seguridad y el rendimiento, lograr la excelencia operativa y reducir los costos. Advisor está diseñado para ayudarle a ahorrar tiempo en la optimización en la nube. El servicio de recomendaciones sugiere medidas que puede adoptar de inmediato, posponer o descartar.
 
@@ -24,7 +24,7 @@ El panel Advisor de Azure Portal muestra recomendaciones personalizadas para tod
 ### ¿Necesita analizar cómo usa Azure para reducir los costos? ¿Mejorar la resistencia? ¿Fortalecer la seguridad?
 Elija Azure Advisor si quiere realizar un análisis de los recursos implementados. Azure Advisor analiza la configuración y el uso de los recursos, y ofrece sugerencias sobre cómo optimizar la confiabilidad, la seguridad, el rendimiento, los costos y las operaciones según los procedimientos recomendados por los expertos.
 
-### Azure Monitor
+## Azure Monitor
 ### ¿Qué servicio es una plataforma en la que se basa Application Insights y permite la supervisión de máquinas virtuales, contenedores y Kubernetes?
 Azure Monitor es una plataforma que permite recopilar, analizar y mostrar datos, así como llevar a cabo acciones en función de las métricas y los datos registrados en todo el entorno local y de Azure.
 
@@ -43,7 +43,7 @@ Además, puede usar los datos para ayudarle a reaccionar ante eventos críticos 
 ### ¿Quiere medir eventos personalizados junto con otras métricas de uso?
 Elija Azure Monitor si quiere medir eventos personalizados y otros datos de telemetría recopilados. Los eventos personalizados, como los agregados al código fuente de las aplicaciones de software, pueden ayudar a identificar y diagnosticar la razón por la que la aplicación se comporta de una manera determinada.
 
-### Azure Service Health
+## Azure Service Health
 ### ¿Qué servicio ofrece un análisis oficial de la causa principal (RCA) de la interrupción en los incidentes de Azure?
 Azure Service Health proporciona una vista personalizada del estado de los servicios, regiones y recursos de Azure en los que se basa su infraestructura. El sitio web status.azure.com, que muestra solo los principales problemas que afectan de manera generalizada a los clientes de Azure, no refleja el panorama completo. Sin embargo, Azure Service Health muestra los problemas detectados de mayor y menor importancia que le afectan. Los problemas del servicio son poco frecuentes, pero es importante estar preparado para lo inesperado. Por ello, puede configurar alertas que le ayuden a evaluar las interrupciones y el mantenimiento planeado. Después de una interrupción, Service Health proporciona informes de incidentes oficiales, llamados análisis de la causa principal (RCA), que puede compartir con las partes interesadas.
 
