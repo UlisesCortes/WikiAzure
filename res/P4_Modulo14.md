@@ -126,10 +126,12 @@ Para lograr una alta disponibilidad, puede aprovisionar varios hosts en un grupo
 
 ### Consideraciones sobre precios
 Se cobra por host dedicado, con independencia de cuántas máquinas virtuales se implementen en él. El precio del host se basa en la familia de máquinas virtuales, el tipo (tamaño de hardware) y la región.
+
 ![image](https://user-images.githubusercontent.com/86896526/125994501-3d5e6382-d0cb-4a49-a43f-8c4a4e54bc8d.png)
 ![image](https://user-images.githubusercontent.com/86896526/125994410-7221d7dd-865d-411a-bd90-d44bc75c684a.png)
 ![image](https://user-images.githubusercontent.com/86896526/125994431-cfebdbd9-6b97-44dd-9184-6a6048ddd44f.png)
 ![image](https://user-images.githubusercontent.com/86896526/125994389-2d9fc46a-ae56-4e81-af90-014647c3e47c.png)
 
+Ejercicio
 
 
