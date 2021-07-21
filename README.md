@@ -40,6 +40,14 @@ Mi avance:
     
   - [Parte 5: Descripción de las características de identidad, gobernanza, privacidad y cumplimiento](#parte-5)
     - [Parte 5: Descripción de los acuerdos de nivel de servicio y la administración de costos de Azure](#parte-5)
+    - [Link de Modulo 16:](res/P5_Modulo16.md)
+    - [Link de Modulo 17:](res/P5_Modulo17.md)
+    - [Link de Modulo 18:](res/P5_Modulo18.md)
+    - [Link de Modulo 19:](res/P5_Modulo19.md)
+
+  - [Parte 6: Descripción de las características de identidad, gobernanza, privacidad y cumplimiento](#parte-6)
+    - [Parte 6: Descripción de los acuerdos de nivel de servicio y la administración de costos de Azure](#parte-6)
+    - [Link de Modulo 16:](res/P6_Modulo20.md)
 
 
 ## Parte 1
