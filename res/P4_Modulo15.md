@@ -46,6 +46,7 @@ Cada capa proporciona protección de modo que, si se produce una brecha en una c
 
 - La capa de aplicación ayuda a garantizar que las aplicaciones sean seguras y estén libres de vulnerabilidades de seguridad.
   * La integración de la seguridad en el ciclo de vida de desarrollo de aplicaciones ayuda a reducir el número de vulnerabilidades en el código. Todos los equipos de desarrollo deberían asegurarse de que sus aplicaciones son seguras de forma predeterminada.
+  
   En esta capa, es importante que realice lo siguiente:
   - * Garantice que las aplicaciones son seguras y están libres de vulnerabilidades.
   - * Almacene los secretos de aplicación confidenciales en un medio de almacenamiento seguro.
@@ -54,11 +55,29 @@ Cada capa proporciona protección de modo que, si se produce una brecha en una c
 - La capa de datos controla el acceso a los datos empresariales y de clientes que es necesario proteger.
 
  * Los que almacenan y controlan el acceso a los datos son responsables de asegurarse de que están protegidos correctamente. A menudo, los requisitos legales dictan los controles y procesos que deben cumplirse para garantizar la confidencialidad, la integridad y la disponibilidad de los datos.
+    
     En casi todos los casos, los atacantes intentan conseguir datos:
   - * Almacenados en una base de datos.
   - * Almacenados en discos en máquinas virtuales.
   - * Almacenados en aplicaciones de software como servicio (SaaS), como Office 365.
   - * Administrados mediante el almacenamiento en la nube.
 
+## Posición de seguridad
 
+El nivel de seguridad es la capacidad de su organización de protegerse frente a amenazas de seguridad y responder a ellas. Los principios comunes usados para definir un nivel de seguridad son la confidencialidad, la integridad y la disponibilidad, lo que se conoce colectivamente como CIA por sus siglas en inglés.
 
+### Confidencialidad
+
+El principio de privilegios mínimos implica restringir el acceso a la información únicamente a los usuarios a las que se concede acceso de forma explícita, solo al nivel necesario para realizar su trabajo. Esta información incluye la protección de contraseñas de usuario, contenido de correo electrónico y niveles de acceso a las aplicaciones y a la infraestructura subyacente.
+
+### Integridad
+
+Evitar cambios no autorizados en la información:
+
+En reposo: cuando se almacenan.
+En tránsito: cuando se transfieren de un lugar a otro, incluido desde un equipo local a la nube.
+Un enfoque común que se usa en la transmisión de datos es la creación de una huella digital única de los datos por parte del remitente mediante un algoritmo hash unidireccional. El hash se envía al receptor junto con los datos. El receptor vuelve a calcular el hash de los datos y lo compara con el original para asegurarse de que los datos no se han perdido ni modificado en tránsito.
+
+### Disponibilidad
+
+Asegúrese de que los servicios funcionan y que solo pueden acceder a ellos los usuarios autorizados. Los ataques por denegación de servicio están diseñados para degradar la disponibilidad de un sistema, lo que afecta a sus usuarios.
