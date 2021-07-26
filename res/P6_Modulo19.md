@@ -1,4 +1,6 @@
 # Parte 6 Modulo 19
+# Planeación y administración de los costos de Azure
+
 La calculadora de TCO le ayuda a calcular los costos que se ahorra al hacer funcionar la solución en Azure con el tiempo, en lugar de hacerlo en el centro de datos local.
 
 El término costo total de propiedad se usa normalmente en finanzas. Puede ser difícil ver todos los costos ocultos relacionados con el funcionamiento de una capacidad tecnológica en el entorno local. Las licencias de software y el hardware son costos adicionales.
